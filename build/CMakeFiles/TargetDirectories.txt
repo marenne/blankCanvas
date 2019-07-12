@@ -1,0 +1,13 @@
+/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/install.dir
+/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/RUN_TESTS.dir
+/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/ALL_BUILD.dir
+/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/ZERO_CHECK.dir
+/Users/steph/Documents/Programming/baseProject/build/lib/CMakeFiles/install.dir
+/Users/steph/Documents/Programming/baseProject/build/lib/CMakeFiles/RUN_TESTS.dir
+/Users/steph/Documents/Programming/baseProject/build/lib/CMakeFiles/utils.dir
+/Users/steph/Documents/Programming/baseProject/build/app/CMakeFiles/install.dir
+/Users/steph/Documents/Programming/baseProject/build/app/CMakeFiles/RUN_TESTS.dir
+/Users/steph/Documents/Programming/baseProject/build/app/CMakeFiles/testProjectExe.dir
+/Users/steph/Documents/Programming/baseProject/build/test/CMakeFiles/install.dir
+/Users/steph/Documents/Programming/baseProject/build/test/CMakeFiles/RUN_TESTS.dir
+/Users/steph/Documents/Programming/baseProject/build/test/CMakeFiles/testCases.dir
