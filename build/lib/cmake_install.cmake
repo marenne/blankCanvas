@@ -1,4 +1,4 @@
-# Install script for directory: /Users/steph/Documents/Programming/baseProject/lib
+# Install script for directory: /Users/steph/Documents/blankCanvas/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

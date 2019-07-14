@@ -1,2 +1,1 @@
-dependencies: \
-  /Users/steph/Documents/Programming/baseProject/test/main.cpp
+dependencies: /Users/steph/Documents/blankCanvas/test/main.cpp

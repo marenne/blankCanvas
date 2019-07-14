@@ -1,4 +1,4 @@
-# Install script for directory: /Users/steph/Documents/Programming/baseProject
+# Install script for directory: /Users/steph/Documents/blankCanvas
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/steph/Documents/Programming/baseProject/build/lib/cmake_install.cmake")
-  include("/Users/steph/Documents/Programming/baseProject/build/app/cmake_install.cmake")
-  include("/Users/steph/Documents/Programming/baseProject/build/test/cmake_install.cmake")
+  include("/Users/steph/Documents/blankCanvas/build/lib/cmake_install.cmake")
+  include("/Users/steph/Documents/blankCanvas/build/app/cmake_install.cmake")
+  include("/Users/steph/Documents/blankCanvas/build/test/cmake_install.cmake")
 
 endif()
 
@@ -48,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/steph/Documents/Programming/baseProject/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/steph/Documents/blankCanvas/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

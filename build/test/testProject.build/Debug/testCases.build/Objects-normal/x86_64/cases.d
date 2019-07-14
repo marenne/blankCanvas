@@ -1,3 +1,2 @@
-dependencies: \
-  /Users/steph/Documents/Programming/baseProject/test/cases.cpp \
-  /Users/steph/Documents/Programming/baseProject/test/../lib/utils.h
+dependencies: /Users/steph/Documents/blankCanvas/test/cases.cpp \
+  /Users/steph/Documents/blankCanvas/test/../lib/utils.h

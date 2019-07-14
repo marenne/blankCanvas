@@ -2,9 +2,9 @@
 # Custom rules for ALL_BUILD
 .SUFFIXES: 
 all: \
-	/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/ALL_BUILD
+	/Users/steph/Documents/blankCanvas/build/CMakeFiles/ALL_BUILD
 
 
-/Users/steph/Documents/Programming/baseProject/build/CMakeFiles/ALL_BUILD: 
+/Users/steph/Documents/blankCanvas/build/CMakeFiles/ALL_BUILD: 
 	echo ""
 	echo Build\ all\ projects
