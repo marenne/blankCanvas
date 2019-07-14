@@ -1,7 +1,0 @@
-add_test( pointInTriangle.part1 /Users/steph/Documents/blankCanvas/build/test/Debug/testCases [==[--gtest_filter=pointInTriangle.part1]==] --gtest_also_run_disabled_tests)
-set_tests_properties( pointInTriangle.part1 PROPERTIES WORKING_DIRECTORY /Users/steph/Documents/blankCanvas/build/test)
-add_test( rectanglesOverlap.part1 /Users/steph/Documents/blankCanvas/build/test/Debug/testCases [==[--gtest_filter=rectanglesOverlap.part1]==] --gtest_also_run_disabled_tests)
-set_tests_properties( rectanglesOverlap.part1 PROPERTIES WORKING_DIRECTORY /Users/steph/Documents/blankCanvas/build/test)
-add_test( pointCloud.part2 /Users/steph/Documents/blankCanvas/build/test/Debug/testCases [==[--gtest_filter=pointCloud.part2]==] --gtest_also_run_disabled_tests)
-set_tests_properties( pointCloud.part2 PROPERTIES WORKING_DIRECTORY /Users/steph/Documents/blankCanvas/build/test)
-set( testCases_TESTS pointInTriangle.part1 rectanglesOverlap.part1 pointCloud.part2)

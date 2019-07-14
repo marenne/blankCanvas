@@ -1,5 +1,0 @@
-if(EXISTS "/Users/steph/Documents/blankCanvas/build/test/testCases[1]_tests.cmake")
-  include("/Users/steph/Documents/blankCanvas/build/test/testCases[1]_tests.cmake")
-else()
-  add_test(testCases_NOT_BUILT testCases_NOT_BUILT)
-endif()
